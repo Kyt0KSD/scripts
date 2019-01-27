@@ -6,5 +6,9 @@
 <p><xsl:value-of select="php:function('readdir')"/></p>
 <p><xsl:value-of select="php:function('readdir')"/></p>
 <p><xsl:value-of select="php:function('readdir')"/></p>
+<p><xsl:value-of select="php:function('readdir')"/></p>
+<p><xsl:value-of select="php:function('readdir')"/></p>
+<p><xsl:value-of select="php:function('readdir')"/></p>
+<p><xsl:value-of select="php:function('readdir')"/></p>
 </xsl:template>
 </xsl:stylesheet>
